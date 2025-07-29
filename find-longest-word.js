@@ -6,7 +6,6 @@
 // step 4 : and update curent larget
 // step 5 : finally return the largest one
 
-
 // Step 1: Take a sentence
 const sentence = "I love programming very much";
 

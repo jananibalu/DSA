@@ -6,7 +6,6 @@
 // Step 4: If not there, add it to the unique array
 // Step 5: At the end, return the unique array
 
-
 // Step 1: Take an array with some duplicate values
 const numbers = [1, 2, 3, 2, 4, 3, 5];
 
